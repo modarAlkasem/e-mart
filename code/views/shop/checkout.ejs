@@ -1,0 +1,37 @@
+<%- include('../includes/head.ejs') %>
+<link rel="stylesheet" href = "/css/cart.css"/>
+    </head>
+
+    <body>
+        <%- include('../includes/navigation.ejs') %>
+        <main>
+            <ul class= "cart__item-list">
+                <% products.forEach(p => {%>
+                    <li class="cart__item">
+                        <p>
+                            <%=p.productId.title%> (<%=p.quantity %>)
+                        </p>
+
+                    </li>
+                <%})%>
+            </ul>
+        </main>
+            <h2 class="centered">
+                Total : <%= totalSum %>
+            </h2>
+            <div class="centered">
+                <form action="/create-order" method="POST">
+                    <script
+                      src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                      data-key="<%= stripePK %>"
+                      data-amount="<%= totalSum * 100 %>"
+                      data-name="Your Order"
+                      data-description="All the items you ordered"
+                      data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+                      data-locale="auto"
+                      data-currency="usd">
+                    </script>
+                  </form>
+            </div>
+
+        <%- include('../includes/end.ejs') %>
