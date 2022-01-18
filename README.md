@@ -174,7 +174,7 @@ git clone https://github.com/modarAlkasem/e-mart.git
 2. Go to repository folder and  run 
   ```Bash
   npm install
-``
+```
   
 3. Create new MongoDB or MongoDB Atlas database
   
@@ -194,7 +194,7 @@ npm start
 
 [EJS](https://ejs.co/ "EJS"): as template engine
   
-[AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started : "AJAX") : to send Async requests
+[AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started "AJAX") : to send Async requests
 
 [Node.js +12.18](https://nodejs.org/en/ "NodeJS") : for back-end
   
