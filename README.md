@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/modarAlkasem/E-Mart/" title="E-Mart">
+  <a href="https://github.com/modarAlkasem/e-mart/" title="e-mart">
       <h1 align="center" font-size = "40px"> E-Mart</h1> 
   </a>
 </p>
@@ -12,7 +12,7 @@
 
 <h2 align="center">🌐 Links 🌐</h2>
 <p align="center">
-    <a href="https://github.com/modarAlkasem/E-Mart/" title="E-Mart">📂 Repo</a>
+    <a href="https://github.com/modarAlkasem/e-mart/" title="e-mart">📂 Repo</a>
     ·
    
 </p>
@@ -36,8 +36,8 @@
   <h4>1. Signup Page: Here where user can sign up and reigister new account as admin in which can add his own products and manage them only or buy other users products.
   and after signing up process user will get an email to tell him that he successfully signed up.<h4>
 <p align="center">
-  <a href="/screen-shots/signup.png" title="scree-shot-signup">
-    <img src="https://raw.github.com/modarAlkasem/cms/main/screen-shots/signup.png" width="100%" alt="scree-shot-signup"/>
+  <a href="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/signup.png" title="scree-shot-signup">
+    <img src="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/signup.png" width="100%" alt="scree-shot-signup"/>
   </a>
 </p>
 
@@ -45,8 +45,8 @@
   <h4>2. singin Page: Where user can signin or reset his password .</h4>
 
 <p align="center">
-  <a href="/screen-shots/signin.png" title="scree-shot-signin">
-    <img src="https://raw.github.com/modarAlkasem/cms/main/screen-shots/signin.png" width="100%" alt="scree-shot-signin"/>
+  <a href="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/signin.png" title="scree-shot-signin">
+    <img src="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/signin.png" width="100%" alt="scree-shot-signin"/>
   </a>
 </p>
 
@@ -55,8 +55,8 @@
 
 
 <p align="center">
-  <a href="/screen-shots/reset-password.png" title="scree-shot-reset-password">
-    <img src="https://raw.github.com/modarAlkasem/cms/main/screen-shots/reset-password.png" width="100%" alt="scree-shot-reset-password"/>
+  <a href="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/reset-password.png" title="scree-shot-reset-password">
+    <img src="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/reset-password.png" width="100%" alt="scree-shot-reset-password"/>
   </a>
 </p>
 
@@ -64,8 +64,8 @@
  <h4> 4. New Password Page : Here where user enter his new password and confirm it.</h4>
 
 <p align="center">
-  <a href="/screen-shots/new-password.png" title="scree-shot-new-password">
-    <img src="https://raw.github.com/modarAlkasem/cms/main/screen-shots/new-password.png" width="100%" alt="scree-shot-new-password"/>
+  <a href="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/new-password.png" title="scree-shot-new-password">
+    <img src="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/new-password.png" width="100%" alt="scree-shot-new-password"/>
   </a>
 </p>
 
@@ -73,8 +73,8 @@
   <h4> 5. Home Page: Here where user browse the existing products , add product to his cart or view details of specific product.</h4>
 
 <p align="center">
-  <a href="/screen-shots/home.png" title="scree-shot-home">
-    <img src="https://raw.github.com/modarAlkasem/cms/main/screen-shots/home.png" width="100%" alt="scree-shot-home"/>
+  <a href="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/home.png" title="scree-shot-home">
+    <img src="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/home.png" width="100%" alt="scree-shot-home"/>
   </a>
 </p>
 
@@ -83,8 +83,8 @@
 
 
 <p align="center">
-  <a href="/screen-shots/individual-product.png" title="scree-shot-individual-product">
-    <img src="https://raw.github.com/modarAlkasem/cms/main/screen-shots/individual-product.png" width="100%" alt="scree-shot-individual-product"/>
+  <a href="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/individual-product.png" title="scree-shot-individual-product">
+    <img src="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/individual-product.png" width="100%" alt="scree-shot-individual-product"/>
   </a>
 </p>
 
@@ -92,8 +92,8 @@
  <h4> 7. Cart Page : Here where user can see the products which he added to his cart and make an order. </h4>
 
 <p align="center">
-  <a href="/screen-shots/cart.png" title="scree-shot-cart">
-    <img src="https://raw.github.com/modarAlkasem/cms/main/screen-shots/cart.png" width="100%" alt="scree-shot-cart"/>
+  <a href="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/cart.png"  title="scree-shot-cart">
+    <img src="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/cart.png" width="100%" alt="scree-shot-cart"/>
   </a>
 </p>
 
@@ -101,8 +101,8 @@
  <h4> 8. Checkout Page : Here where user checkout his order and make payment. </h4>
 
 <p align="center">
-  <a href="/screen-shots/checkout.png" title="scree-shot-checkout">
-    <img src="https://raw.github.com/modarAlkasem/cms/main/screen-shots/checkout.png" width="100%" alt="scree-shot-checkout"/>
+  <a href="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/checkout.png" title="scree-shot-checkout">
+    <img src="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/checkout.png" width="100%" alt="scree-shot-checkout"/>
   </a>
 </p>
 
@@ -110,8 +110,8 @@
  <h4> 9. Payment Form : Here where user enter his payment card's info. </h4>
 
 <p align="center">
-  <a href="/screen-shots/payment.png" title="scree-shot-payment">
-    <img src="https://raw.github.com/modarAlkasem/cms/main/screen-shots/payment.png" width="100%" alt="scree-shot-payment"/>
+  <a href="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/payment.png" title="scree-shot-payment">
+    <img src="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/payment.png" width="100%" alt="scree-shot-payment"/>
   </a>
 </p>
 
@@ -119,8 +119,8 @@
   <h4> 10. Orders Page : Here where user can see his own orders and view or download the invoice of any order as PDF file . </h4>
 
 <p align="center">
-  <a href="/screen-shots/orders.png" title="scree-shot-orders">
-    <img src="https://raw.github.com/modarAlkasem/cms/main/screen-shots/orders.png" width="100%" alt="scree-shot-orders"/>
+  <a href="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/orders.png" title="scree-shot-orders">
+    <img src="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/orders.png" width="100%" alt="scree-shot-orders"/>
   </a>
 </p>
 
@@ -128,8 +128,8 @@
   <h4> 11.Admin products Page : Here where user in admin role can see just the products that he added and manage them . </h4>
 
 <p align="center">
-  <a href="/screen-shots/admin-products.png" title="scree-shot-admin-products">
-    <img src="https://raw.github.com/modarAlkasem/cms/main/screen-shots/admin-products.png" width="100%" alt="scree-shot-admin-products"/>
+  <a href="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/admin-products.png" title="scree-shot-admin-products">
+    <img src="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/admin-products.png" width="100%" alt="scree-shot-admin-products"/>
   </a>
 </p>
 
@@ -137,8 +137,8 @@
    <h4> 12. Admin Add product Page : Here where user in admin role can add a new product. </h4>
 
 <p align="center">
-  <a href="/screen-shots/add-product.png" title="scree-shot-add-product">
-    <img src="https://raw.github.com/modarAlkasem/cms/main/screen-shots/add-product.png" width="100%" alt="scree-shot-add-product"/>
+  <a href="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/add-product.png" title="scree-shot-add-product">
+    <img src="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/add-product.png" width="100%" alt="scree-shot-add-product"/>
   </a>
 </p>
 
@@ -146,8 +146,8 @@
    <h4> 13. Admin Edit product Page : Here where user in admin role can edit an existing product. </h4>
 
 <p align="center">
-  <a href="/screen-shots/admin-edit-product.png" title="scree-shot-admin-edit-product">
-    <img src="https://raw.github.com/modarAlkasem/cms/main/screen-shots/admin-edit-product.png" width="100%" alt="scree-shot-admin-edit-product"/>
+  <a href="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/admin-edit-product.png" title="scree-shot-admin-edit-product">
+    <img src="https://raw.github.com/modarAlkasem/e-mart/main/screen-shots/admin-edit-product.png" width="100%" alt="scree-shot-admin-edit-product"/>
   </a>
 </p>
 
@@ -169,60 +169,47 @@
 1. Clone the repository
 
 ```Bash
-git clone https://github.com/modarAlkasem/E-Mart.git
+git clone https://github.com/modarAlkasem/e-mart.git
 ```
+2. Go to repository folder and  run 
+  ```Bash
+  npm install
+``
   
-2. Create new database named as 'ofa'
+3. Create new MongoDB or MongoDB Atlas database
+  
+4. Create '.env' file and define same environment variables that are existing in'.env.example' then put your data
 
-3. Import 'ofa.sql' file into created database
+5. Adjust your code editor configurations to use the locally installed 'nodemon' package
 
-4. Change the working directory
-
-```Bash
-cd Back-end
-```
-
-5. Run the project 
-
-```Bash
-php artisan serve
-```
-
-6. Change the working directory
-
-```Bash
-cd Front-end
-```
-
-7. Run the project 
+6. Run the project 
 
 ```Bash
 npm start
 ```
 
-8. Read 'credentials.txt' file and Signin as admin or employee
-
 **🎇 You are Ready to Go!**
 
 ## 👷 Built with
 
-[React](https://reactjs.org/ "React"): as Front End
+[EJS](https://ejs.co/ "EJS"): as template engine
+  
+[AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started : "AJAX") : to send Async requests
 
-[Laravel](https://laravel.com/ "Laravel"): as RESTful API
+[Node.js +12.18](https://nodejs.org/en/ "NodeJS") : for back-end
+  
+[Sendgrid](https://sendgrid.com/ "Sendgrid") : for send emails
+
+[Stripe](https://www.stripe.com/ "stripe")  : for make online payment
  
-[MySQL](https://www.mysql.com/ "MySQL"): as Database Engine
+[MongoDB Atlas](https://www.mongodb.com/atlas "MongoDB Atlas"): as Database Engine
 
-## 🎊 Further Approach
-
-- [ ] Add more categories.
-
-- [ ] Give admin ability to give permissions to employees to just access to specific categories.
 
 
 ## 🧑🏻 Author
 
 **Modar Alkasem**
 
-- 🌌 [Profile](https://gitlab.com/modarAlkasem/ "Modar Alkasem")
+- 🌌 [Profile](https://github.com/modarAlkasem "Modar Alkasem")
 
 - 🏮 [Email](mailto:modarAlkasem@gmail.com?subject=Hi%20from%20official-university-archive "modarAlkasem@gmail.com")
