@@ -7,7 +7,7 @@
 
 ## :point_right: Description
 
-<h3>E-Mart is a simple E-commerce website that enables to user manage own products and buy other users products.</h3> 
+<h3>E-Mart is a simple E-commerce website that enables user to manage own products and buy other users products.</h3> 
 
 
 <h2 align="center">🌐 Links 🌐</h2>
